@@ -10,15 +10,11 @@
     "@types/node": "^16.18.23",
     "@types/react": "^18.0.35",
     "@types/react-dom": "^18.0.11",
-    "@web3modal/ethereum": "^2.3.0",
-    "@web3modal/react": "^2.3.0",
-    "ethers": "^5.7.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "react-wallet-chat-v0": "^1.4.7",
     "typescript": "^4.9.5",
-    "wagmi": "^0.12.10",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
